@@ -6,5 +6,10 @@
   - ### A.2 디바이스 트리
 
 ## B. SPI Peripheral(무게센서)
+```
+#include<bits/stdc++.h>
+int main(void){
 
+}
+```
 ## C. SPI Driver
